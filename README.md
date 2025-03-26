@@ -31,8 +31,8 @@ This project is a **Streamlit-based AI chatbot** that enables users to **search 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrinceGupta8/search-agent-chatbot.git
-   cd search-agent-chatbot
+   git clone https://github.com/PrinceGupta8/Search-engine-with-langchain-Tools-and-agents.git
+   cd Search-engine-with-langchain-Tools-and-agents
    ```
 2. **Create a virtual environment**
    ```bash
@@ -82,5 +82,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-🚀 **Experience AI-powered real-time search with conversational memory!**
+**Experience AI-powered real-time search with conversational memory!**
 
